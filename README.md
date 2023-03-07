@@ -14,15 +14,15 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>49</kbd>
+## Followers <kbd>50</kbd>
 
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/epsilonfoundation">
+      <a href="https://github.com/exomile">
         <img src="https://avatars.githubusercontent.com/u/126894089?v=4" width="50" />
         <br />
-        epsilonfoundation
+        exomile
       </a>
     </td>
     <td width="150" align="center">
@@ -206,6 +206,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Rider-io">
+        <img src="https://avatars.githubusercontent.com/u/69906370?v=4" width="50" />
+        <br />
+        Rider-io
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars.githubusercontent.com/u/69351423?v=4" width="50" />
         <br />
@@ -226,6 +233,7 @@
         BEPb
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kshivakumar27">
         <img src="https://avatars.githubusercontent.com/u/56855151?v=4" width="50" />
@@ -233,7 +241,6 @@
         kshivakumar27
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lkotlarenko">
         <img src="https://avatars.githubusercontent.com/u/56134431?v=4" width="50" />
@@ -262,6 +269,7 @@
         hocinebouarara
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/PremChapagain">
         <img src="https://avatars.githubusercontent.com/u/47587012?v=4" width="50" />
@@ -269,7 +277,6 @@
         PremChapagain
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yeasin72">
         <img src="https://avatars.githubusercontent.com/u/47134306?v=4" width="50" />
@@ -298,6 +305,7 @@
         kulikov-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Kwynto">
         <img src="https://avatars.githubusercontent.com/u/31433211?v=4" width="50" />
@@ -305,7 +313,6 @@
         Kwynto
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vjanz">
         <img src="https://avatars.githubusercontent.com/u/25842655?v=4" width="50" />
@@ -334,6 +341,7 @@
         alejandroatacho
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/david-kariuki">
         <img src="https://avatars.githubusercontent.com/u/14153276?v=4" width="50" />
@@ -341,7 +349,6 @@
         david-kariuki
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vivekweb2013">
         <img src="https://avatars.githubusercontent.com/u/7036736?v=4" width="50" />
@@ -369,8 +376,6 @@
         <br />
         jeffersonsimaogoncalves
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
