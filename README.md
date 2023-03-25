@@ -220,12 +220,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/arnaldo-tomo">
+        <img src="https://avatars.githubusercontent.com/u/73796385?v=4" width="50" />
+        <br />
+        arnaldo-tomo
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/00mjk">
         <img src="https://avatars.githubusercontent.com/u/73543858?v=4" width="50" />
         <br />
         00mjk
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DGS1337">
         <img src="https://avatars.githubusercontent.com/u/72562709?v=4" width="50" />
@@ -233,19 +241,11 @@
         DGS1337
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/scoobytux">
         <img src="https://avatars.githubusercontent.com/u/72339711?v=4" width="50" />
         <br />
         scoobytux
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Rider-io">
-        <img src="https://avatars.githubusercontent.com/u/69906370?v=4" width="50" />
-        <br />
-        Rider-io
       </a>
     </td>
     <td width="150" align="center">
