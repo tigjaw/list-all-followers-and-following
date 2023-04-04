@@ -473,7 +473,7 @@
   </tr>
 </table>
 
-## Following <kbd>65</kbd>
+## Following <kbd>67</kbd>
 
 <table>
   <tr>
@@ -917,6 +917,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Solomonkassa">
+        <img src="https://avatars.githubusercontent.com/u/118729276?v=4" width="50" />
+        <br />
+        Solomonkassa
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/CamiloMM21">
+        <img src="https://avatars.githubusercontent.com/u/121126131?v=4" width="50" />
+        <br />
+        CamiloMM21
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/annie-n3">
         <img src="https://avatars.githubusercontent.com/u/122740951?v=4" width="50" />
         <br />
@@ -930,6 +944,7 @@
         richardrobertov
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mahedialikhorjiya">
         <img src="https://avatars.githubusercontent.com/u/126043388?v=4" width="50" />
@@ -943,6 +958,12 @@
         <br />
         AmarMijgar1
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
