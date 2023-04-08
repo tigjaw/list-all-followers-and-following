@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>63</kbd>
+## Followers <kbd>64</kbd>
 
 <table>
   <tr>
@@ -62,17 +62,17 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/CamiloMM21">
-        <img src="https://avatars.githubusercontent.com/u/121126131?v=4" width="50" />
-        <br />
-        CamiloMM21
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/Solomonkassa">
         <img src="https://avatars.githubusercontent.com/u/118729276?v=4" width="50" />
         <br />
         Solomonkassa
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/AnnePatchkoria">
+        <img src="https://avatars.githubusercontent.com/u/114932122?v=4" width="50" />
+        <br />
+        AnnePatchkoria
       </a>
     </td>
     <td width="150" align="center">
@@ -429,6 +429,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/amoola1992">
+        <img src="https://avatars.githubusercontent.com/u/16816527?v=4" width="50" />
+        <br />
+        amoola1992
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/alejandroatacho">
         <img src="https://avatars.githubusercontent.com/u/15048157?v=4" width="50" />
         <br />
@@ -442,6 +449,7 @@
         david-kariuki
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vivekweb2013">
         <img src="https://avatars.githubusercontent.com/u/7036736?v=4" width="50" />
@@ -449,7 +457,6 @@
         vivekweb2013
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -470,8 +477,6 @@
         <br />
         jeffersonsimaogoncalves
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
