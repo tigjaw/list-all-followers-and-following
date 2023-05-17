@@ -443,13 +443,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/tonic-6101">
+        <img src="https://avatars.githubusercontent.com/u/43235418?v=4" width="50" />
+        <br />
+        tonic-6101
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/dirambora">
         <img src="https://avatars.githubusercontent.com/u/42798758?v=4" width="50" />
         <br />
         dirambora
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars.githubusercontent.com/u/40471760?v=4" width="50" />
@@ -478,19 +485,12 @@
         AYIDouble
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mdhachem">
         <img src="https://avatars.githubusercontent.com/u/18026408?v=4" width="50" />
         <br />
         mdhachem
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/amoola1992">
-        <img src="https://avatars.githubusercontent.com/u/16816527?v=4" width="50" />
-        <br />
-        amoola1992
       </a>
     </td>
     <td width="150" align="center">
