@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>67</kbd>
+## Followers <kbd>68</kbd>
 
 <table>
   <tr>
@@ -55,17 +55,17 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/richardrobertov">
+      <a href="https://github.com/stalk0">
         <img src="https://avatars.githubusercontent.com/u/123779099?v=4" width="50" />
         <br />
-        richardrobertov
+        stalk0
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bl4ckh47G1rl">
+      <a href="https://github.com/V1nni00">
         <img src="https://avatars.githubusercontent.com/u/122740951?v=4" width="50" />
         <br />
-        bl4ckh47G1rl
+        V1nni00
       </a>
     </td>
     <td width="150" align="center">
@@ -343,6 +343,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/HotCappuchino">
+        <img src="https://avatars.githubusercontent.com/u/61810159?v=4" width="50" />
+        <br />
+        HotCappuchino
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/BEPb">
         <img src="https://avatars.githubusercontent.com/u/57312267?v=4" width="50" />
         <br />
@@ -370,6 +377,7 @@
         Ahmad-Akel
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JeffersonRPM">
         <img src="https://avatars.githubusercontent.com/u/48998618?v=4" width="50" />
@@ -377,7 +385,6 @@
         JeffersonRPM
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/phanatagama">
         <img src="https://avatars.githubusercontent.com/u/48324618?v=4" width="50" />
@@ -406,6 +413,7 @@
         yeasin72
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Saidiislam">
         <img src="https://avatars.githubusercontent.com/u/44663342?v=4" width="50" />
@@ -413,7 +421,6 @@
         Saidiislam
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tonic-6101">
         <img src="https://avatars.githubusercontent.com/u/43235418?v=4" width="50" />
@@ -442,6 +449,7 @@
         Kwynto
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vjanz">
         <img src="https://avatars.githubusercontent.com/u/25842655?v=4" width="50" />
@@ -449,7 +457,6 @@
         vjanz
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
@@ -478,6 +485,7 @@
         vivekweb2013
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -485,7 +493,6 @@
         gamemann
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" width="50" />
@@ -499,8 +506,6 @@
         <br />
         jeffersonsimaogoncalves
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
@@ -967,17 +972,17 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bl4ckh47G1rl">
+      <a href="https://github.com/V1nni00">
         <img src="https://avatars.githubusercontent.com/u/122740951?v=4" width="50" />
         <br />
-        bl4ckh47G1rl
+        V1nni00
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/richardrobertov">
+      <a href="https://github.com/stalk0">
         <img src="https://avatars.githubusercontent.com/u/123779099?v=4" width="50" />
         <br />
-        richardrobertov
+        stalk0
       </a>
     </td>
   </tr><tr>
