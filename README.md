@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>68</kbd>
+## Followers <kbd>67</kbd>
 
 <table>
   <tr>
@@ -292,20 +292,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/vito-mohagheghian">
-        <img src="https://avatars.githubusercontent.com/u/77550037?v=4" width="50" />
-        <br />
-        vito-mohagheghian
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/Apleon">
         <img src="https://avatars.githubusercontent.com/u/75485447?v=4" width="50" />
         <br />
         Apleon
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AXG-coder">
         <img src="https://avatars.githubusercontent.com/u/74980212?v=4" width="50" />
@@ -313,6 +305,7 @@
         AXG-coder
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arnaldo-tomo">
         <img src="https://avatars.githubusercontent.com/u/73796385?v=4" width="50" />
@@ -341,7 +334,6 @@
         scoobytux
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JohnDominicJasmin">
         <img src="https://avatars.githubusercontent.com/u/67941562?v=4" width="50" />
@@ -349,6 +341,7 @@
         JohnDominicJasmin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/BEPb">
         <img src="https://avatars.githubusercontent.com/u/57312267?v=4" width="50" />
@@ -377,7 +370,6 @@
         Ahmad-Akel
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JeffersonRPM">
         <img src="https://avatars.githubusercontent.com/u/48998618?v=4" width="50" />
@@ -385,6 +377,7 @@
         JeffersonRPM
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/phanatagama">
         <img src="https://avatars.githubusercontent.com/u/48324618?v=4" width="50" />
@@ -413,7 +406,6 @@
         yeasin72
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Saidiislam">
         <img src="https://avatars.githubusercontent.com/u/44663342?v=4" width="50" />
@@ -421,6 +413,7 @@
         Saidiislam
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tonic-6101">
         <img src="https://avatars.githubusercontent.com/u/43235418?v=4" width="50" />
@@ -449,7 +442,6 @@
         Kwynto
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vjanz">
         <img src="https://avatars.githubusercontent.com/u/25842655?v=4" width="50" />
@@ -457,6 +449,7 @@
         vjanz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
@@ -485,7 +478,6 @@
         vivekweb2013
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -493,6 +485,7 @@
         gamemann
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" width="50" />
@@ -506,6 +499,8 @@
         <br />
         jeffersonsimaogoncalves
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
