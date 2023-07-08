@@ -26,13 +26,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/robinsoncrusio">
-        <img src="https://avatars.githubusercontent.com/u/132560166?v=4" width="50" />
-        <br />
-        robinsoncrusio
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/uniway-hitman">
         <img src="https://avatars.githubusercontent.com/u/131217149?v=4" width="50" />
         <br />
@@ -53,7 +46,6 @@
         eddyonl
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AmarMijgar1">
         <img src="https://avatars.githubusercontent.com/u/126850384?v=4" width="50" />
@@ -61,6 +53,7 @@
         AmarMijgar1
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mahedialikhorjiya">
         <img src="https://avatars.githubusercontent.com/u/126043388?v=4" width="50" />
@@ -89,7 +82,6 @@
         Nathanage3
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Solomonkassa">
         <img src="https://avatars.githubusercontent.com/u/118729276?v=4" width="50" />
@@ -97,6 +89,7 @@
         Solomonkassa
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Zid95">
         <img src="https://avatars.githubusercontent.com/u/114246759?v=4" width="50" />
@@ -125,7 +118,6 @@
         bylickilabs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lazherbtra07">
         <img src="https://avatars.githubusercontent.com/u/108631379?v=4" width="50" />
@@ -133,6 +125,7 @@
         lazherbtra07
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/StackOverflowChad">
         <img src="https://avatars.githubusercontent.com/u/105970019?v=4" width="50" />
@@ -152,6 +145,13 @@
         <img src="https://avatars.githubusercontent.com/u/104387283?v=4" width="50" />
         <br />
         JCSIVO
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/zoltanvin">
+        <img src="https://avatars.githubusercontent.com/u/101427459?v=4" width="50" />
+        <br />
+        zoltanvin
       </a>
     </td>
     <td width="150" align="center">
