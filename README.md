@@ -33,10 +33,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/uniway-hitman">
+      <a href="https://github.com/uniwayone">
         <img src="https://avatars.githubusercontent.com/u/131217149?v=4" width="50" />
         <br />
-        uniway-hitman
+        uniwayone
       </a>
     </td>
     <td width="150" align="center">
