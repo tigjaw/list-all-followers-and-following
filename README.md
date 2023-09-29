@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>64</kbd>
+## Followers <kbd>65</kbd>
 
 <table>
   <tr>
@@ -465,6 +465,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/GregTakeo25">
+        <img src="https://avatars.githubusercontent.com/u/6184640?v=4" width="50" />
+        <br />
+        GregTakeo25
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" width="50" />
         <br />
@@ -477,8 +484,6 @@
         <br />
         jeffersonsimaogoncalves
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
