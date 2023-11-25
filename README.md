@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>65</kbd>
+## Followers <kbd>63</kbd>
 
 <table>
   <tr>
@@ -199,24 +199,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/CodePromoter">
-        <img src="https://avatars.githubusercontent.com/u/96325205?v=4" width="50" />
-        <br />
-        CodePromoter
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/ozboware">
         <img src="https://avatars.githubusercontent.com/u/95859352?v=4" width="50" />
         <br />
         ozboware
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/dinosoid">
-        <img src="https://avatars.githubusercontent.com/u/94695825?v=4" width="50" />
-        <br />
-        dinosoid
       </a>
     </td>
     <td width="150" align="center">
@@ -233,7 +219,6 @@
         alineai18
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mohadmn03">
         <img src="https://avatars.githubusercontent.com/u/91742203?v=4" width="50" />
@@ -248,6 +233,7 @@
         somekindofwallflower
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Kubenew">
         <img src="https://avatars.githubusercontent.com/u/90440279?v=4" width="50" />
@@ -269,7 +255,6 @@
         carolinabentresca
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ethanflower1903">
         <img src="https://avatars.githubusercontent.com/u/84658436?v=4" width="50" />
@@ -284,6 +269,7 @@
         nightfury-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars.githubusercontent.com/u/81983264?v=4" width="50" />
@@ -305,7 +291,6 @@
         AXG-coder
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arnaldo-tomo">
         <img src="https://avatars.githubusercontent.com/u/73796385?v=4" width="50" />
@@ -320,6 +305,7 @@
         00mjk
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/scoobytux">
         <img src="https://avatars.githubusercontent.com/u/72339711?v=4" width="50" />
@@ -341,7 +327,6 @@
         BEPb
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kshivakumar27">
         <img src="https://avatars.githubusercontent.com/u/56855151?v=4" width="50" />
@@ -356,6 +341,7 @@
         lkotlarenko
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ahmad-Akel">
         <img src="https://avatars.githubusercontent.com/u/52263061?v=4" width="50" />
@@ -377,7 +363,6 @@
         hocinebouarara
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/PremChapagain">
         <img src="https://avatars.githubusercontent.com/u/47587012?v=4" width="50" />
@@ -392,6 +377,7 @@
         yeasin72
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Saidiislam">
         <img src="https://avatars.githubusercontent.com/u/44663342?v=4" width="50" />
@@ -413,7 +399,6 @@
         dirambora
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars.githubusercontent.com/u/40471760?v=4" width="50" />
@@ -428,6 +413,7 @@
         AbdeenM
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
@@ -449,7 +435,6 @@
         alejandroatacho
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vivekweb2013">
         <img src="https://avatars.githubusercontent.com/u/7036736?v=4" width="50" />
@@ -464,6 +449,7 @@
         gamemann
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/GregTakeo25">
         <img src="https://avatars.githubusercontent.com/u/6184640?v=4" width="50" />
@@ -485,10 +471,14 @@
         jeffersonsimaogoncalves
       </a>
     </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
   </tr>
 </table>
 
-## Following <kbd>68</kbd>
+## Following <kbd>66</kbd>
 
 <table>
   <tr>
@@ -824,24 +814,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/dinosoid">
-        <img src="https://avatars.githubusercontent.com/u/94695825?v=4" width="50" />
-        <br />
-        dinosoid
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/ozboware">
         <img src="https://avatars.githubusercontent.com/u/95859352?v=4" width="50" />
         <br />
         ozboware
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/CodePromoter">
-        <img src="https://avatars.githubusercontent.com/u/96325205?v=4" width="50" />
-        <br />
-        CodePromoter
       </a>
     </td>
     <td width="150" align="center">
@@ -851,7 +827,6 @@
         christiaan93210
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ValentineFernandes">
         <img src="https://avatars.githubusercontent.com/u/98638443?v=4" width="50" />
@@ -866,6 +841,7 @@
         munyuawilson
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JCSIVO">
         <img src="https://avatars.githubusercontent.com/u/104387283?v=4" width="50" />
@@ -887,7 +863,6 @@
         StackOverflowChad
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lazherbtra07">
         <img src="https://avatars.githubusercontent.com/u/108631379?v=4" width="50" />
@@ -902,6 +877,7 @@
         bylickilabs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/zdeiby">
         <img src="https://avatars.githubusercontent.com/u/111442309?v=4" width="50" />
@@ -923,7 +899,6 @@
         bbypink
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AnnePatchkoria">
         <img src="https://avatars.githubusercontent.com/u/114932122?v=4" width="50" />
@@ -938,6 +913,7 @@
         Solomonkassa
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/V1nni00">
         <img src="https://avatars.githubusercontent.com/u/122740951?v=4" width="50" />
@@ -959,7 +935,6 @@
         mahedialikhorjiya
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AmarMijgar1">
         <img src="https://avatars.githubusercontent.com/u/126850384?v=4" width="50" />
@@ -974,12 +949,17 @@
         eddyonl
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alexica32">
         <img src="https://avatars.githubusercontent.com/u/129276251?v=4" width="50" />
         <br />
         alexica32
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
