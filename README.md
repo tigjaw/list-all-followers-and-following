@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>63</kbd>
+## Followers <kbd>62</kbd>
 
 <table>
   <tr>
@@ -407,20 +407,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AbdeenM">
-        <img src="https://avatars.githubusercontent.com/u/24494653?v=4" width="50" />
-        <br />
-        AbdeenM
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
         <br />
         AYIDouble
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mdhachem">
         <img src="https://avatars.githubusercontent.com/u/18026408?v=4" width="50" />
@@ -449,7 +442,6 @@
         gamemann
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/GregTakeo25">
         <img src="https://avatars.githubusercontent.com/u/6184640?v=4" width="50" />
@@ -457,6 +449,7 @@
         GregTakeo25
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" width="50" />
@@ -470,6 +463,8 @@
         <br />
         jeffersonsimaogoncalves
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
