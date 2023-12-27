@@ -314,10 +314,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/scoobytux">
+      <a href="https://github.com/tulna07">
         <img src="https://avatars.githubusercontent.com/u/72339711?v=4" width="50" />
         <br />
-        scoobytux
+        tulna07
       </a>
     </td>
     <td width="150" align="center">
@@ -691,10 +691,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/scoobytux">
+      <a href="https://github.com/tulna07">
         <img src="https://avatars.githubusercontent.com/u/72339711?v=4" width="50" />
         <br />
-        scoobytux
+        tulna07
       </a>
     </td>
   </tr><tr>
