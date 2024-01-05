@@ -927,10 +927,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/stalk0">
+      <a href="https://github.com/richardnpc">
         <img src="https://avatars.githubusercontent.com/u/123779099?v=4" width="50" />
         <br />
-        stalk0
+        richardnpc
       </a>
     </td>
     <td width="150" align="center">
