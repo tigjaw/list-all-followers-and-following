@@ -199,10 +199,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/christiaan93210">
+      <a href="https://github.com/techwizard210">
         <img src="https://avatars.githubusercontent.com/u/96474901?v=4" width="50" />
         <br />
-        christiaan93210
+        techwizard210
       </a>
     </td>
     <td width="150" align="center">
@@ -826,10 +826,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/christiaan93210">
+      <a href="https://github.com/techwizard210">
         <img src="https://avatars.githubusercontent.com/u/96474901?v=4" width="50" />
         <br />
-        christiaan93210
+        techwizard210
       </a>
     </td>
     <td width="150" align="center">
