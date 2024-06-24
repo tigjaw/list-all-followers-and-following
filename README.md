@@ -910,10 +910,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/richardnpc">
+      <a href="https://github.com/richardroberti">
         <img src="https://avatars.githubusercontent.com/u/123779099?v=4" width="50" />
         <br />
-        richardnpc
+        richardroberti
       </a>
     </td>
     <td width="150" align="center">
