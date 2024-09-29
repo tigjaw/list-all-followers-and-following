@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>63</kbd>
+## Followers <kbd>64</kbd>
 
 <table>
   <tr>
@@ -321,6 +321,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/OfficialCodeVoyage">
+        <img src="https://avatars.githubusercontent.com/u/72575602?v=4" width="50" />
+        <br />
+        OfficialCodeVoyage
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/tulna07">
         <img src="https://avatars.githubusercontent.com/u/72339711?v=4" width="50" />
         <br />
@@ -334,6 +341,7 @@
         JohnDominicJasmin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/BEPb">
         <img src="https://avatars.githubusercontent.com/u/57312267?v=4" width="50" />
@@ -341,7 +349,6 @@
         BEPb
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kshivakumar27">
         <img src="https://avatars.githubusercontent.com/u/56855151?v=4" width="50" />
@@ -370,6 +377,7 @@
         phanatagama
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hocinebouarara">
         <img src="https://avatars.githubusercontent.com/u/47678189?v=4" width="50" />
@@ -377,7 +385,6 @@
         hocinebouarara
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yeasin72">
         <img src="https://avatars.githubusercontent.com/u/47134306?v=4" width="50" />
@@ -406,6 +413,7 @@
         kulikov-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gr8monk3ys">
         <img src="https://avatars.githubusercontent.com/u/31302763?v=4" width="50" />
@@ -413,7 +421,6 @@
         gr8monk3ys
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alxkm">
         <img src="https://avatars.githubusercontent.com/u/19151554?v=4" width="50" />
@@ -442,6 +449,7 @@
         mustafacagri
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vivekweb2013">
         <img src="https://avatars.githubusercontent.com/u/7036736?v=4" width="50" />
@@ -449,7 +457,6 @@
         vivekweb2013
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -470,8 +477,6 @@
         <br />
         jeffersonsimaogoncalves
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
