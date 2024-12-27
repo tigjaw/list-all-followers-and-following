@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>63</kbd>
+## Followers <kbd>65</kbd>
 
 <table>
   <tr>
@@ -407,13 +407,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/djvelimir">
+        <img src="https://avatars.githubusercontent.com/u/20823832?v=4" width="50" />
+        <br />
+        djvelimir
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/alxkm">
         <img src="https://avatars.githubusercontent.com/u/19151554?v=4" width="50" />
         <br />
         alxkm
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/IDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="50" />
@@ -442,6 +449,7 @@
         vivekweb2013
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -449,12 +457,18 @@
         gamemann
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/XiaomingX">
         <img src="https://avatars.githubusercontent.com/u/5387930?v=4" width="50" />
         <br />
         XiaomingX
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/VictorHaine">
+        <img src="https://avatars.githubusercontent.com/u/4723109?v=4" width="50" />
+        <br />
+        VictorHaine
       </a>
     </td>
     <td width="150" align="center">
@@ -470,10 +484,6 @@
         <br />
         jeffersonsimaogoncalves
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
