@@ -487,10 +487,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/jeffersonsimaogoncalves">
+      <a href="https://github.com/jeffersongoncalves">
         <img src="https://avatars.githubusercontent.com/u/411493?v=4" width="50" />
         <br />
-        jeffersonsimaogoncalves
+        jeffersongoncalves
       </a>
     </td>
     <td width="150" align="center">
@@ -516,10 +516,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/jeffersonsimaogoncalves">
+      <a href="https://github.com/jeffersongoncalves">
         <img src="https://avatars.githubusercontent.com/u/411493?v=4" width="50" />
         <br />
-        jeffersonsimaogoncalves
+        jeffersongoncalves
       </a>
     </td>
     <td width="150" align="center">
