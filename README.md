@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>62</kbd>
+## Followers <kbd>61</kbd>
 
 <table>
   <tr>
@@ -458,11 +458,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/jeffersongoncalves">
-        <img src="https://avatars.githubusercontent.com/u/411493?v=4" width="50" />
-        <br />
-        jeffersongoncalves
-      </a>
     </td>
     <td width="150" align="center">
     </td>
