@@ -473,7 +473,7 @@
   </tr>
 </table>
 
-## Following <kbd>64</kbd>
+## Following <kbd>63</kbd>
 
 <table>
   <tr>
@@ -910,13 +910,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/richard0x42">
-        <img src="https://avatars.githubusercontent.com/u/123779099?v=4" width="50" />
-        <br />
-        richard0x42
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/mahedialikhorjiya">
         <img src="https://avatars.githubusercontent.com/u/126043388?v=4" width="50" />
         <br />
@@ -936,6 +929,8 @@
         <br />
         alexica32
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
