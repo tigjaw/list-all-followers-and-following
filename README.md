@@ -725,10 +725,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/binary-blazer">
+      <a href="https://github.com/builtbyjonas">
         <img src="https://avatars.githubusercontent.com/u/81481526?v=4" width="50" />
         <br />
-        binary-blazer
+        builtbyjonas
       </a>
     </td>
     <td width="150" align="center">
