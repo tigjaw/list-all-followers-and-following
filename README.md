@@ -874,10 +874,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/bastndev">
+      <a href="https://github.com/gohitx">
         <img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="50" />
         <br />
-        bastndev
+        gohitx
       </a>
     </td>
     <td width="150" align="center">
