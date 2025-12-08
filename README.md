@@ -206,13 +206,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/mohadmn03">
-        <img src="https://avatars.githubusercontent.com/u/91742203?v=4" width="50" />
-        <br />
-        mohadmn03
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/somekindofwallflower">
         <img src="https://avatars.githubusercontent.com/u/90985750?v=4" width="50" />
         <br />
@@ -233,7 +226,6 @@
         aplus-developer
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/carolinabentresca">
         <img src="https://avatars.githubusercontent.com/u/88462536?v=4" width="50" />
@@ -241,6 +233,7 @@
         carolinabentresca
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ethanflower1903">
         <img src="https://avatars.githubusercontent.com/u/84658436?v=4" width="50" />
@@ -269,7 +262,6 @@
         mohammadhasanii
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Apleon">
         <img src="https://avatars.githubusercontent.com/u/75485447?v=4" width="50" />
@@ -277,6 +269,7 @@
         Apleon
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Aziz-AXG">
         <img src="https://avatars.githubusercontent.com/u/74980212?v=4" width="50" />
@@ -305,7 +298,6 @@
         OfficialCodeVoyage
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tulna07">
         <img src="https://avatars.githubusercontent.com/u/72339711?v=4" width="50" />
@@ -313,11 +305,19 @@
         tulna07
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JohnDominicJasmin">
         <img src="https://avatars.githubusercontent.com/u/67941562?v=4" width="50" />
         <br />
         JohnDominicJasmin
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/emilycodestar">
+        <img src="https://avatars.githubusercontent.com/u/58666088?v=4" width="50" />
+        <br />
+        emilycodestar
       </a>
     </td>
     <td width="150" align="center">
