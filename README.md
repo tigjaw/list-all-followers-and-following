@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>59</kbd>
+## Followers <kbd>60</kbd>
 
 <table>
   <tr>
@@ -436,13 +436,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/venus912">
+        <img src="https://avatars.githubusercontent.com/u/4381687?v=4" width="50" />
+        <br />
+        venus912
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" width="50" />
         <br />
         kenjinote
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
