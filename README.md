@@ -746,10 +746,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/sshack">
+      <a href="https://github.com/ssh-pereira">
         <img src="https://avatars.githubusercontent.com/u/82890773?v=4" width="50" />
         <br />
-        sshack
+        ssh-pereira
       </a>
     </td>
     <td width="150" align="center">
