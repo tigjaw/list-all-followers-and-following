@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>59</kbd>
+## Followers <kbd>58</kbd>
 
 <table>
   <tr>
@@ -429,18 +429,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/amelia-mc">
-        <img src="https://avatars.githubusercontent.com/u/4381687?v=4" width="50" />
-        <br />
-        amelia-mc
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" width="50" />
         <br />
         kenjinote
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
