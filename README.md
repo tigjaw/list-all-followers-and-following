@@ -816,10 +816,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lazherbtra07">
+      <a href="https://github.com/lazherbtr">
         <img src="https://avatars.githubusercontent.com/u/108631379?v=4" width="50" />
         <br />
-        lazherbtra07
+        lazherbtr
       </a>
     </td>
     <td width="150" align="center">
