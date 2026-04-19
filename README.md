@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>58</kbd>
+## Followers <kbd>62</kbd>
 
 <table>
   <tr>
@@ -112,12 +112,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/rahuloraj">
+        <img src="https://avatars.githubusercontent.com/u/119727688?v=4" width="50" />
+        <br />
+        rahuloraj
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Nathanage3">
         <img src="https://avatars.githubusercontent.com/u/118963179?v=4" width="50" />
         <br />
         Nathanage3
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ambesawi">
         <img src="https://avatars.githubusercontent.com/u/117799650?v=4" width="50" />
@@ -125,7 +133,6 @@
         Ambesawi
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sanchezcpp">
         <img src="https://avatars.githubusercontent.com/u/114457825?v=4" width="50" />
@@ -154,6 +161,7 @@
         StackOverflowChad
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/urmybestfriend">
         <img src="https://avatars.githubusercontent.com/u/104659978?v=4" width="50" />
@@ -161,7 +169,6 @@
         urmybestfriend
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JCSIVO">
         <img src="https://avatars.githubusercontent.com/u/104387283?v=4" width="50" />
@@ -190,6 +197,7 @@
         ValentineFernandes
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cumsoft">
         <img src="https://avatars.githubusercontent.com/u/97250816?v=4" width="50" />
@@ -197,7 +205,6 @@
         cumsoft
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/techwizard210">
         <img src="https://avatars.githubusercontent.com/u/96474901?v=4" width="50" />
@@ -226,6 +233,7 @@
         somekindofwallflower
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Kubenew">
         <img src="https://avatars.githubusercontent.com/u/90440279?v=4" width="50" />
@@ -233,7 +241,6 @@
         Kubenew
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aplus-developer">
         <img src="https://avatars.githubusercontent.com/u/89198066?v=4" width="50" />
@@ -262,6 +269,7 @@
         nightfury-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars.githubusercontent.com/u/81983264?v=4" width="50" />
@@ -269,7 +277,6 @@
         JubayerRiyad
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mohammadhasanii">
         <img src="https://avatars.githubusercontent.com/u/77454712?v=4" width="50" />
@@ -298,6 +305,7 @@
         00mjk
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars.githubusercontent.com/u/72575602?v=4" width="50" />
@@ -305,7 +313,6 @@
         OfficialCodeVoyage
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tulna07">
         <img src="https://avatars.githubusercontent.com/u/72339711?v=4" width="50" />
@@ -334,6 +341,7 @@
         kshivakumar27
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ahmad-Akel">
         <img src="https://avatars.githubusercontent.com/u/52263061?v=4" width="50" />
@@ -341,7 +349,20 @@
         Ahmad-Akel
       </a>
     </td>
-  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/benalbano">
+        <img src="https://avatars.githubusercontent.com/u/50383486?v=4" width="50" />
+        <br />
+        benalbano
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/jackweirds">
+        <img src="https://avatars.githubusercontent.com/u/49217719?v=4" width="50" />
+        <br />
+        jackweirds
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/phanatagama">
         <img src="https://avatars.githubusercontent.com/u/48324618?v=4" width="50" />
@@ -356,6 +377,7 @@
         yeasin72
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Saidiislam">
         <img src="https://avatars.githubusercontent.com/u/44663342?v=4" width="50" />
@@ -377,7 +399,6 @@
         kulikov-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gr8monk3ys">
         <img src="https://avatars.githubusercontent.com/u/31302763?v=4" width="50" />
@@ -390,6 +411,14 @@
         <img src="https://avatars.githubusercontent.com/u/20823832?v=4" width="50" />
         <br />
         djvelimir
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/yulicwan">
+        <img src="https://avatars.githubusercontent.com/u/20564637?v=4" width="50" />
+        <br />
+        yulicwan
       </a>
     </td>
     <td width="150" align="center">
@@ -413,7 +442,6 @@
         mustafacagri
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vivekweb2013">
         <img src="https://avatars.githubusercontent.com/u/7036736?v=4" width="50" />
@@ -421,6 +449,7 @@
         vivekweb2013
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -434,6 +463,8 @@
         <br />
         kenjinote
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
