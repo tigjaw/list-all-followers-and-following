@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>62</kbd>
+## Followers <kbd>60</kbd>
 
 <table>
   <tr>
@@ -62,20 +62,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/yutomiwana">
-        <img src="https://avatars.githubusercontent.com/u/146503733?v=4" width="50" />
-        <br />
-        yutomiwana
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/yukamanawa">
-        <img src="https://avatars.githubusercontent.com/u/146503472?v=4" width="50" />
-        <br />
-        yukamanawa
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/Nakshatra05">
         <img src="https://avatars.githubusercontent.com/u/139595090?v=4" width="50" />
         <br />
@@ -89,7 +75,6 @@
         D4Fi
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alexica32">
         <img src="https://avatars.githubusercontent.com/u/129276251?v=4" width="50" />
@@ -104,6 +89,7 @@
         AmarMijgar1
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Grukur">
         <img src="https://avatars.githubusercontent.com/u/122310470?v=4" width="50" />
@@ -125,7 +111,6 @@
         Nathanage3
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ambesawi">
         <img src="https://avatars.githubusercontent.com/u/117799650?v=4" width="50" />
@@ -140,6 +125,7 @@
         sanchezcpp
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/loranYousef">
         <img src="https://avatars.githubusercontent.com/u/113938756?v=4" width="50" />
@@ -161,7 +147,6 @@
         StackOverflowChad
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/urmybestfriend">
         <img src="https://avatars.githubusercontent.com/u/104659978?v=4" width="50" />
@@ -176,6 +161,7 @@
         JCSIVO
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/korizyx">
         <img src="https://avatars.githubusercontent.com/u/99187000?v=4" width="50" />
@@ -197,7 +183,6 @@
         ValentineFernandes
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cumsoft">
         <img src="https://avatars.githubusercontent.com/u/97250816?v=4" width="50" />
@@ -212,6 +197,7 @@
         techwizard210
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/milsaware">
         <img src="https://avatars.githubusercontent.com/u/95859352?v=4" width="50" />
@@ -233,7 +219,6 @@
         somekindofwallflower
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Kubenew">
         <img src="https://avatars.githubusercontent.com/u/90440279?v=4" width="50" />
@@ -248,6 +233,7 @@
         aplus-developer
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/carolinabentresca">
         <img src="https://avatars.githubusercontent.com/u/88462536?v=4" width="50" />
@@ -269,7 +255,6 @@
         nightfury-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JubayerRiyad">
         <img src="https://avatars.githubusercontent.com/u/81983264?v=4" width="50" />
@@ -284,6 +269,7 @@
         mohammadhasanii
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Apleon">
         <img src="https://avatars.githubusercontent.com/u/75485447?v=4" width="50" />
@@ -305,7 +291,6 @@
         00mjk
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/OfficialCodeVoyage">
         <img src="https://avatars.githubusercontent.com/u/72575602?v=4" width="50" />
@@ -320,6 +305,7 @@
         tulna07
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JohnDominicJasmin">
         <img src="https://avatars.githubusercontent.com/u/67941562?v=4" width="50" />
@@ -341,7 +327,6 @@
         kshivakumar27
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Ahmad-Akel">
         <img src="https://avatars.githubusercontent.com/u/52263061?v=4" width="50" />
@@ -356,6 +341,7 @@
         benalbano
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jackweirds">
         <img src="https://avatars.githubusercontent.com/u/49217719?v=4" width="50" />
@@ -377,7 +363,6 @@
         yeasin72
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Saidiislam">
         <img src="https://avatars.githubusercontent.com/u/44663342?v=4" width="50" />
@@ -392,6 +377,7 @@
         tonic-6101
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars.githubusercontent.com/u/40471760?v=4" width="50" />
@@ -413,7 +399,6 @@
         djvelimir
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yulicwan">
         <img src="https://avatars.githubusercontent.com/u/20564637?v=4" width="50" />
@@ -428,6 +413,7 @@
         IDouble
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mdhachem">
         <img src="https://avatars.githubusercontent.com/u/18026408?v=4" width="50" />
@@ -449,7 +435,6 @@
         vivekweb2013
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -463,12 +448,6 @@
         <br />
         kenjinote
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
