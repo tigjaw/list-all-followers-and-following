@@ -674,10 +674,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/H-K-R">
+      <a href="https://github.com/humayrakhanomrime">
         <img src="https://avatars.githubusercontent.com/u/69351423?v=4" width="50" />
         <br />
-        H-K-R
+        humayrakhanomrime
       </a>
     </td>
     <td width="150" align="center">
