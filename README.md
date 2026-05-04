@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>60</kbd>
+## Followers <kbd>57</kbd>
 
 <table>
   <tr>
@@ -335,27 +335,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/benalbano">
-        <img src="https://avatars.githubusercontent.com/u/50383486?v=4" width="50" />
-        <br />
-        benalbano
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/jackweirds">
-        <img src="https://avatars.githubusercontent.com/u/49217719?v=4" width="50" />
-        <br />
-        jackweirds
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/phanatagama">
         <img src="https://avatars.githubusercontent.com/u/48324618?v=4" width="50" />
         <br />
         phanatagama
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yeasin72">
         <img src="https://avatars.githubusercontent.com/u/47134306?v=4" width="50" />
@@ -377,7 +363,6 @@
         tonic-6101
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kulikov-dev">
         <img src="https://avatars.githubusercontent.com/u/40471760?v=4" width="50" />
@@ -392,18 +377,12 @@
         gr8monk3ys
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/djvelimir">
         <img src="https://avatars.githubusercontent.com/u/20823832?v=4" width="50" />
         <br />
         djvelimir
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/yulicwan">
-        <img src="https://avatars.githubusercontent.com/u/20564637?v=4" width="50" />
-        <br />
-        yulicwan
       </a>
     </td>
     <td width="150" align="center">
@@ -413,7 +392,6 @@
         IDouble
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mdhachem">
         <img src="https://avatars.githubusercontent.com/u/18026408?v=4" width="50" />
@@ -435,6 +413,7 @@
         vivekweb2013
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -448,6 +427,12 @@
         <br />
         kenjinote
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
