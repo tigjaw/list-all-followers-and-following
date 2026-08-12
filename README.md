@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Joshua W. | Software Engineer | Content Creator | - | West Midlands, UK | - |
 
-## Followers <kbd>59</kbd>
+## Followers <kbd>60</kbd>
 
 <table>
   <tr>
@@ -321,6 +321,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/BEPb">
+        <img src="https://avatars.githubusercontent.com/u/57312267?v=4" width="50" />
+        <br />
+        BEPb
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/kshivakumar27">
         <img src="https://avatars.githubusercontent.com/u/56855151?v=4" width="50" />
         <br />
@@ -334,6 +341,7 @@
         Ahmad-Akel
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/phanatagama">
         <img src="https://avatars.githubusercontent.com/u/48324618?v=4" width="50" />
@@ -341,7 +349,6 @@
         phanatagama
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yeasin72">
         <img src="https://avatars.githubusercontent.com/u/47134306?v=4" width="50" />
@@ -370,6 +377,7 @@
         kulikov-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rob0pup">
         <img src="https://avatars.githubusercontent.com/u/38285616?v=4" width="50" />
@@ -377,7 +385,6 @@
         rob0pup
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ardaltunel">
         <img src="https://avatars.githubusercontent.com/u/35379428?v=4" width="50" />
@@ -406,6 +413,7 @@
         IDouble
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mdhachem">
         <img src="https://avatars.githubusercontent.com/u/18026408?v=4" width="50" />
@@ -413,7 +421,6 @@
         mdhachem
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars.githubusercontent.com/u/7488394?v=4" width="50" />
@@ -441,8 +448,6 @@
         <br />
         kenjinote
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
